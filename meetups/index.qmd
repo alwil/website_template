@@ -1,6 +1,9 @@
 ---
-title: meetups
+title: Calendar
 listing: 
   type: table
   contents: events.yaml
+  sort: "date"
+  field-links: [title]
+  fields: [title, description, date, time]
 ---
