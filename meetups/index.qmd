@@ -5,5 +5,5 @@ listing:
   contents: events.yaml
   sort: "date"
   field-links: [title]
-  fields: [title, description, date, time]
+  fields: [title, description,location,presenter,date, time]
 ---
